@@ -1,6 +1,6 @@
 # TNIC sw evaluation
 
-We next explain how to build and run in our Intel cluster with the following hw (Intel(R) Core(TM) i9-9900K (8 cores, 3.2 GHz), Intel Corporation Ethernet Controllers (XL710)) and OS (NixOS, 5.15.4). 
+We next explain how to build and run our emulated TNIC applications in our Intel cluster with the following hw (Intel(R) Core(TM) i9-9900K (8 cores, 3.2 GHz), Intel Corporation Ethernet Controllers (XL710)) and OS (NixOS, 5.15.4). 
 
 Please note that specific changes and configurations are for this particular cluster.
 
